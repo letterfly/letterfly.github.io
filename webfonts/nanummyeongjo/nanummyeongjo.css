@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-nanummyeongjo';
+    src: url(nanummyeongjo.woff2) format('woff2'),
+         url(nanummyeongjo.woff) format('woff');
+}

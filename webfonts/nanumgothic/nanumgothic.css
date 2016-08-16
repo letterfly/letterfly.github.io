@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-nanumgothic';
+    src: url(nanumgothic.woff2) format('woff2'),
+         url(nanumgothic.woff) format('woff');
+}

@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-hanna';
+    src: url(hanna.woff2) format('woff2'),
+         url(hanna.woff) format('woff');
+}

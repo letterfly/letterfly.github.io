@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-misaeng';
+    src: url(misaeng.woff2) format('woff2'),
+         url(misaeng.woff) format('woff');
+}
