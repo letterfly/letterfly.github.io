@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-nanumbrush';
+    src: url(nanumbrush.woff2) format('woff2'),
+         url(nanumbrush.woff) format('woff');
+}
