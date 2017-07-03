@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-enjoystories';
+    src: url(enjoystories.woff2) format('woff2'),
+         url(enjoystories.woff) format('woff');
+}

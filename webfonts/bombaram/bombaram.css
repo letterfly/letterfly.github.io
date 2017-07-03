@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-bombaram';
+    src: url(bombaram.woff2) format('woff2'),
+         url(bombaram.woff) format('woff');
+}

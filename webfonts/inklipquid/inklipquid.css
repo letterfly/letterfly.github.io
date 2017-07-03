@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-inklipquid';
+    src: url(inklipquid.woff2) format('woff2'),
+         url(inklipquid.woff) format('woff');
+}

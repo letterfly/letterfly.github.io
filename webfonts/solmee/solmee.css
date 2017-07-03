@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-solmee';
+    src: url(solmee.woff2) format('woff2'),
+         url(solmee.woff) format('woff');
+}

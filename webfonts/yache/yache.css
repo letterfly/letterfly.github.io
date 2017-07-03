@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'ltf-yache';
+    src: url(yache.woff2) format('woff2'),
+         url(yache.woff) format('woff');
+}
